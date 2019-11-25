@@ -1,4 +1,4 @@
-#read Healthcare cost analysis data from file
+#read Healthcare cost analysis data from file "hospitalcosts.csv"
 hospital<- read.csv(file.choose())
 head(hospital)
 
